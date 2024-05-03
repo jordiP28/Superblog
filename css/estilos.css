@@ -10,7 +10,7 @@ body
 }
 #cabecera
 {
-    background:url(../css/imagenes/egipto.png) 10px 10px;
+    background:#33a;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;
     font-weight:700;
@@ -45,11 +45,4 @@ body
 {
     background:#fff;
     padding:1em
-}
-#footer
-{
-    background:cornflowerblue;
-    color: antiquewhite;
-    text-align: center;
-    padding: 3px;
 }
