@@ -3,4 +3,7 @@ esta es la historia de Jordi
 Jordi tiene que practicar mucho 
 estamos en el proyecto clonado
 
+esta es otra prueba 
+modificado desde el clonado
+
 esta semana nos enfocaremos en terminar el curso de git
