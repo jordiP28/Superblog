@@ -2,4 +2,6 @@ esta es la historia de Jordi
 
 Jordi tiene que practicar mucho 
 
+esta es otra prueba 
+
 esta semana nos enfocaremos en terminar el curso de git
